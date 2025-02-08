@@ -1,0 +1,9 @@
+/* Example: Custom button style if you want teal instead of Bootstrap’s green. */
+.btn-success {
+    background-color: #009688;
+    border: none;
+  }
+  .btn-success:hover {
+    background-color: #00796b;
+  }
+  
